@@ -121,7 +121,8 @@ function sendTransaction(isAdding) {
       "Content-Type": "application/json"
     }
   })
-  .then(response => {    
+  .then(response => {   
+    console.log('transaction is ' + response) 
     return response.json();
   })
   .then(data => {

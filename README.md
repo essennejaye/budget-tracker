@@ -8,4 +8,12 @@
 * If the user enters transactions offline, the total should be updated when they're brought back online. 
 * Once these changes have been made the application will be deployed to Heroku.
   
+  ## Screenshot
+
+  ![](public/images/budget_tracker_mod19.png)
+
+### GitHub
+  https://github.com/essennejaye/budget-tracker
+
+  ### Heroku
   

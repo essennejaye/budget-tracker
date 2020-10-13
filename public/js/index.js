@@ -122,7 +122,6 @@ function sendTransaction(isAdding) {
     }
   })
   .then(response => {   
-    console.log('transaction is ' + response) 
     return response.json();
   })
   .then(data => {
